@@ -1,3 +1,5 @@
+[Final Project Presentation (2).pptx](https://github.com/Ashikapatel90/Game-Co-Sales-Analysis/files/10461065/Final.Project.Presentation.2.pptx)
+[Book1 VGSales_clean.xlsx](https://github.com/Ashikapatel90/Game-Co-Sales-Analysis/files/10461069/Book1.VGSales_clean.xlsx)
 # Game-Co-Sales-Analysis
 A descriptive exploration of a fictional game company, Game Co.
 # Overview
